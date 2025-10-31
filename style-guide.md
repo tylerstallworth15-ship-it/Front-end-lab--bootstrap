@@ -18,7 +18,7 @@ The designs were created to the following widths:
 - Slate 900: hsl(218, 44%, 22%)
 
 ## Typography
-
+~
 ### Body Copy
 
 - Font size (paragraph): 15px
