@@ -1,4 +1,4 @@
-/* Background */
+
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;    
@@ -7,49 +7,48 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    flex-direction: column;   
+    /* flex-direction: column;    */
 }
 
-/* Main Card */
+
 .card {
     background-color: white;
     border-radius: 15px;
     width: 300px;
     padding: 16px;
     text-align: center;
-    box-shadow: 0 10px; 20px rgba(0,0,0,0.1)
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1)
 }
 
-/* Image Style */
+
 .card img {
     width: 100%;
     border-radius: 10px;
     display: block;
 }
 
-/* Heading */
+
 .card h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.2rem;
-    margin: 15px; 0 10px;
+    margin: 15px0 10px;
 }
 
-/* Paragraph Text */
+
 .card p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     margin: 0;
 }
 
-/* Footer */
+
 .attribution {
     font-size: 11px;
-    text-align: center;
-    margin-top: 10px;
+    margin: 0px;
 }
 
 .attribution a {
-    color: hsl(278, 86%, 36%);       /* Wanted to choose purple for the color*/
+    color: hsl(278, 86%, 36%);       
     text-decoration: none;
 }
 
